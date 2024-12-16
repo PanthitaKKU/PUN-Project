@@ -1,6 +1,6 @@
 <template>
   <div>
-    จ่ายเงินนนน
+    Payment details
   </div>
 </template>
 
