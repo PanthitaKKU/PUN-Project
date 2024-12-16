@@ -13,7 +13,7 @@
       </div>
 
       <div class="m-9 mt-12 font-medium text-lg text-white">
-        <label for="username"> Username </label> <br />
+        <label for="username"> Username : </label> <br />
         <input
           type="text"
           id="username"
